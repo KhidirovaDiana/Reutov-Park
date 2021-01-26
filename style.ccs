@@ -1,0 +1,9 @@
+h1 {
+   color: lightskyblue;
+   background-color: blue;
+}
+
+a{
+    background-color: pink;
+    color: purple;
+}
